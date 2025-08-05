@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello Universe!💫 I'm ER. Aleena 👩🏻‍🎓, a passionate Software Engineer 👩🏼‍💻<br>
-🌟 On a journey of continuous learning, seeking entry-level opportunities in Data Science and AI <br>
+🌟 On a journey of continuous learning, seeking opportunities in Data Science and AI <br>
 🚀 Exploring the world of AI and Data Science <br>
 💡 Excited to collaborate on AI, ML, and Data Science initiatives <br>
 
